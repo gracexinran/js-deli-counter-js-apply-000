@@ -23,3 +23,5 @@ function currentLine(katzDeliLine){
         return `The line is currently empty.`
     }
 }
+
+console.log(currentLine(["Kate", "Alice"]))
