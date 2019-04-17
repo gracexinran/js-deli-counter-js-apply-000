@@ -1,5 +1,5 @@
 function takeANumber(katzDeliLine){
-  
+
   katzDeliLine.push(katzDeliLine.length);
     return `Welcome you are number ${katzDeliLine.length}.`;
     // Welcome you are number 28
