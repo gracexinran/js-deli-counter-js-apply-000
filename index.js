@@ -25,3 +25,4 @@ function currentLine(katzDeliLine){
 }
 
 console.log(currentLine(["Kate", "Alice"]))
+console.log(currentLine(["Laura", "Alex"]))
